@@ -5,7 +5,7 @@
 }
 
 #containerOne .navBarSection .navbar .toggleContainer .burgerMenu {
-    font-size: 50px !important;
+    font-size: 40px !important;
 }
 
 html, body {
@@ -14,9 +14,10 @@ html, body {
 }
 
 #containerOne {
-    height: 100%;
+    height: auto;
     padding: 0;
     background-image: url(../assets/header-replace-image.jpg);
+    padding: 4% 0;
 }
 
 .main-container {
@@ -25,7 +26,6 @@ html, body {
 
 .contentContainer {
     width: 70%;
-    padding-top: 7%;
 }
 
 .cardImg {
